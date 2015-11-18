@@ -1,0 +1,4 @@
+#!/bin/sh
+
+    sudo python ./update_light.py
+    sudo python ./udpate_ac.py
